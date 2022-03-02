@@ -31,7 +31,7 @@ st.header('College project demo' )
 #
 # st.map(df)
 
-local_css("style.css")
+local_css("https://raw.githubusercontent.com/RebeccaSh/USC_DSCI551/main/style.css")
 
 # selected = st.text_input("", "Search...")
 # button_clicked = st.button("OK")
