@@ -9,8 +9,10 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 
-testdata = pd.read_csv("/Users/rebeccashen/PycharmProjects/dsci551/venv/sortedTop200_copy.csv")
-check = pd.read_csv("/Users/rebeccashen/PycharmProjects/dsci551/venv/checktest.csv")
+# testdata = pd.read_csv("/Users/rebeccashen/PycharmProjects/dsci551/venv/sortedTop200_copy.csv")
+# check = pd.read_csv("/Users/rebeccashen/PycharmProjects/dsci551/venv/checktest.csv")
+testdata = pd.read_csv("https://raw.githubusercontent.com/RebeccaSh/USC_DSCI551/main/sortedTop200_copy.csv")
+check = pd.read_csv("https://raw.githubusercontent.com/RebeccaSh/USC_DSCI551/main/checktest.csv")
 
 
 def icon(icon_name):
