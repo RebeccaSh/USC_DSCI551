@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import csv
 import pandas as pd
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 
 
 testdata = pd.read_csv("/Users/rebeccashen/PycharmProjects/dsci551/venv/sortedTop200_copy.csv")
