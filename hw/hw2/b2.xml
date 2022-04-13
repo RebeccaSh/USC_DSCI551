@@ -1,0 +1,20 @@
+<students>
+    <student id = "100">
+        <name>John</name>
+        <age>25</age>
+    </student>
+    <student id = "200">
+        <name>Mary</name>
+        <gender>Female</gender>
+    </student>
+     <student id = "200">
+        <name>oh</name>
+        <gender>Female</gender>
+        <age>22</age>
+    </student>
+    <student id = "300">
+        <name>od</name>
+       
+        <age>23</age>
+    </student>
+</students>
