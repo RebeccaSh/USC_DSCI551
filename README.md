@@ -2,7 +2,7 @@
 UI screenshot
 
 <img width="1725" alt="Screen Shot 2022-04-12 at 5 37 25 PM" src="https://user-images.githubusercontent.com/25335878/163080017-cabf77b7-c979-4005-9fbb-1699e309dde2.png">
-<img width="1725" alt="Screen Shot 2022-04-12 at 5 37 25 PM" src="https://user-images.githubusercontent.com/25335878/163080017-cabf77b7-c979-4005-9fbb-1699e309dde2.png">
+
 
 
 ![Xnip2022-04-12_18-16-22](https://user-images.githubusercontent.com/25335878/163080023-ac579b58-3b10-4411-8d10-314b0ad737a1.jpg)
