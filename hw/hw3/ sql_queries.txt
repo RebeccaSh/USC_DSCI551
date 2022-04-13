@@ -1,0 +1,180 @@
+1) Find out how many films are rated ‘PG-13’ and last between 100 and 200 minutes.
+
+use sakila;
+SELECT COUNT(*) FROM sakila.film where rating = 'PG-13'AND (length between 100 and 200);
+
++----------+
+| COUNT(*) |
++----------+
+|    151   |
++----------+
+
+
+2) Find first and last names of actors whose 2nd to the last letter of last name is ‘i’.
+
+use sakila;
+SELECT first_name, last_name FROM sakila.actor WHERE last_name like '%i_';
+
+
++------------+-----------+
+| first_name | last_name |
++------------+-----------+
+| JENNIFER   | DAVIS     |
+| BURT       | DUKAKIS   |
+| FRANCES    | DAY-LEWIS |
+| GARY       | PHOENIX   |
+| DAN        | HARRIS    |
+| WOODY      | JOLIE     |
+| BEN        | WILLIS    |
+| GREG       | CHAPLIN   |
+| GENE       | WILLIS    |
+| SUSAN      | DAVIS     |
+| SUSAN      | DAVIS     |
+| CATE       | HARRIS    |
+| BEN        | HARRIS    |
+| HUMPHREY   | WILLIS    |
+| ROCK       | DUKAKIS   |
++------------+-----------+
+
+
+3) Find the title and length of the longest films.
+
+use sakila;
+SELECT title,length FROM sakila.film WHERE length = (SELECT MAX(length) FROM sakila.film_list);
+
++--------------------+--------+
+| title              | length |
++--------------------+--------+
+| CHICAGO NORTH      |    185 |
+| CONTROL ANTHEM     |    185 |
+| DARN FORRESTER     |    185 |
+| GANGS PRIDE        |    185 |
+| HOME PITY          |    185 |
+| MUSCLE BRIGHT      |    185 |
+| POND SEATTLE       |    185 |
+| SOLDIERS EVOLUTION |    185 |
+| SWEET BROTHERHOOD  |    185 |
+| WORST BANGER       |    185 |
++--------------------+--------+
+
+
+4) Find out how many films there are in each category. Output category name and the number of films in the category.
+
+use sakila;
+SELECT category.name, COUNT(film_id) from sakila.film_category right JOIN sakila.category on film_category.category_id = category.category_id group by category.name ;
+
++-------------+----------------+
+| name        | COUNT(film_id) |
++-------------+----------------+
+| Action      |             64 |
+| Animation   |             66 |
+| Children    |             60 |
+| Classics    |             57 |
+| Comedy      |             58 |
+| Documentary |             68 |
+| Drama       |             62 |
+| Family      |             69 |
+| Foreign     |             73 |
+| Games       |             61 |
+| Horror      |             56 |
+| Music       |             51 |
+| New         |             63 |
+| Sci-Fi      |             61 |
+| Sports      |             74 |
+| Travel      |             57 |
++-------------+----------------+
+5) Find ids of customers who have rented films at least 40 times. Return the same ids only once.
+
+use sakila;
+SELECT distinct(customer_id) FROM sakila.rental group by customer_id having  COUNT(customer_id) >= 40;
+
++-------------+
+| customer_id |
++-------------+
+|          75 |
+|         144 |
+|         148 |
+|         197 |
+|         236 |
+|         469 |
+|         526 |
++-------------+
+
+6) Find first and last names of customers whose total payment exceeds $200.
+
+use sakila;
+SELECT first_name, last_name from sakila.customer where customer_id in (SELECT customer_id from sakila.payment group by customer_id having SUM(amount) >200);
+
++------------+-----------+
+| first_name | last_name |
++------------+-----------+
+| ELEANOR    | HUNT      |
+| KARL       | SEAL      |
++------------+-----------+
+
+7) Find first and last names of actors who have never played in films rated R.
+
+use sakila;
+SELECT first_name, last_name from sakila.actor where actor_id not in (SELECT actor_id from sakila.film_actor where film_id  in (SELECT film_id FROM sakila.film where rating = 'R'));
+
++------------+-----------+
+| first_name | last_name |
++------------+-----------+
+| JANE       | JACKMAN   |
++------------+-----------+
+
+
+8) Find out how many films are not available in the inventory.
+use sakila;
+SELECT count(*) from sakila.film where film_id not in (SELECT film_id FROM sakila.inventory);
+
++----------+
+| count(*) |
++----------+
+|       42 |
++----------+
+
+9) Find out how many actors who have the same first name but a different last name with another actor.
+
+use sakila;
+SELECT Count(*) as actor_sameFirst_name_Notlast_name from  (
+Select first_name, last_name
+From   actor where  first_name in 
+(
+    SELECT first_name
+    FROM actor
+    GROUP BY first_name
+    HAVING COUNT(*) > 1
+) ) as k where concat(first_name, last_name)  not in 
+(SELECT concat( actor.first_name, actor.last_name)
+    FROM actor
+    GROUP BY first_name, last_name
+    HAVING COUNT(*) > 1) ;
++-----------------------------------+
+| actor_sameFirst_name_Notlast_name |
++-----------------------------------+
+|                               122 |
++-----------------------------------+ 
+
+
+
+
+10) Show the first name, last name, and city of the customers whose first name is either Jamie,Jessie, or Leslie. Order the result by first name.
+
+use sakila;
+SELECT customer.first_name, customer.last_name, city.city FROM customer JOIN address ON customer.address_id = address.address_id JOIN city ON address.city_id = city.city_id where first_name = 'Jamie' or first_name = 'Leslie' or first_name = 'Jessie' order by first_name;
+
++------------+-----------+------------------+
+| first_name | last_name | city             |
++------------+-----------+------------------+
+| JAMIE      | RICE      | Sterling Heights |
+| JAMIE      | WAUGH     | Kuwana           |
+| JESSIE     | BANKS     | Stara Zagora     |
+| JESSIE     | MILAM     | Binzhou          |
+| LESLIE     | GORDON    | Kilis            |
+| LESLIE     | SEWARD    | Pontianak        |
++------------+-----------+------------------+
+
+
+
+
