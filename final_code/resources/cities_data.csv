@@ -1,0 +1,489 @@
+id,name,safety_index,health_index,1b_rent_oc,1b_rent_cc,basic_utils_85m2,internet_60mbps,trans_means,gas_liter,monthly_pass_local_trans,one_way_local_trans,meal_for_two_midrange_rest,meal_inex_rest,safety_lvl,health_lvl
+3398,"Birmingham, AL, United States",43.07,70.13,821,910,177.06,68,"{'Walking': 15, 'Car': 85}",0.881608277,0,1.25,60,18,(Moderate),(High)
+3423,"Grand Rapids, MI, United States",60.36,86.78,1119,1323,107.88,68,"{'Car': 90, 'Bus/Trolleybus': 5, 'Working from Home': 5}",0.855494934,35,1.75,60,12,(High),(Very High)
+3434,"Jackson, MS, United States",26.4,59.03,600,0,265.67,79,"{'Walking': 14, 'Car': 86}",0.804139974,0,0,60,12,(Low),(Moderate)
+3437,"Kansas City, MO, United States",42.59,75.4,883,1163,171.36,66,"{'Car': 88, 'Working from Home': 12}",0.841460068,50,1.5,60,18,(Moderate),(High)
+3440,"Little Rock, AR, United States",39.82,68.85,783,737,166.16,67,"{'Walking': 15, 'Car': 80, 'Working from Home': 5}",0.780364487,36,1.35,50,15,(Low),(High)
+3443,"Louisville, KY, United States",43.94,63.52,873,1086,159.05,59,"{'Car': 96, 'Bus/Trolleybus': 4}",0.877051215,35,1.85,55,15,(Moderate),(High)
+3446,"Memphis, TN, United States",25.77,43.18,971,1155,171.53,79,"{'Car': 93, 'Working from Home': 7}",0.844505293,43,1.75,59,15,(Low),(Moderate)
+3450,"Minneapolis, MN, United States",44.84,78.9,1075,1453,161.78,61,"{'Walking': 5, 'Train/Metro': 1, 'Car': 78, 'Bus/Trolleybus': 9, 'Working from Home': 2, 'Bike': 5}",0.84821479,85,2.5,60,16,(Moderate),(High)
+3453,"Montgomery, AL, United States",36.55,37.96,1000,925,159.25,70,{'Car': 100},0.805460967,0,0,40,15,(Low),(Low)
+3455,"New York, NY, United States",52.42,61.83,2252,3328,170.01,65,"{'Walking': 21, 'Train/Metro': 42, 'Car': 22, 'Bus/Trolleybus': 5, 'Working from Home': 6, 'Bike': 4}",1.002867616,129,2.75,100,20,(Moderate),(High)
+3462,"Orlando, FL, United States",48.59,63.98,1271,1566,171.37,78,"{'Walking': 1, 'Car': 93, 'Working from Home': 6}",0.8856139,50,2,65,16,(Moderate),(High)
+3477,"Saint Paul, MN, United States",49.41,76.35,1154,1508,220.73,80,"{'Walking': 11, 'Car': 68, 'Bus/Trolleybus': 16, 'Working from Home': 5}",0.856234612,85,2.25,75,16,(Moderate),(High)
+3497,"Washington, DC, United States",41.16,69.62,1760,2191,158.08,66,"{'Walking': 9, 'Train/Metro': 11, 'Car': 65, 'Bus/Trolleybus': 5, 'Working from Home': 4, 'Bike': 7}",0.941802813,102,3,80,16,(Moderate),(High)
+7554,"Ashland, OH, United States",72.06,0,583,533,106.67,60,,0.847992289,0,0,45,16,(High),
+7700,"Albany, NY, United States",48.78,69.48,938,1100,155.02,69,"{'Car': 92, 'Working from Home': 8}",0.934024466,0,1.5,65,14,(Moderate),(High)
+8010,"San Angelo, TX, United States",45.34,100,1100,1600,205.76,58,{'Car': 100},0.76213673,0,0,40,11,(Moderate),(Very High)
+8029,"Nashville, TN, United States",53.16,63.95,1301,1793,180.72,73,"{'Walking': 3, 'Car': 90, 'Bus/Trolleybus': 3, 'Working from Home': 2, 'Bike': 2}",0.810479926,65,3.09,63,15,(Moderate),(High)
+8331,"Sioux Falls, SD, United States",57.16,66.62,806,1028,148.25,68,{'Car': 100},0.839604924,33,2,50,13,(Moderate),(High)
+8343,"Springfield, MA, United States",26.59,58.33,0,0,183.92,63,"{'Car': 83, 'Working from Home': 17}",0.903732803,40,1.25,50,14,(Low),(Moderate)
+8400,"Aurora, IL, United States",60.66,73.15,0,0,156.84,51,"{'Walking': 25, 'Tram/Streetcar': 25, 'Car': 50}",0.901003101,200,0,55,14,(High),(High)
+8449,"Tempe, AZ, United States",57.26,66.67,1288,1600,171.06,75,"{'Tram/Streetcar': 12, 'Car': 88}",0.988569626,64,2,45,11,(Moderate),(High)
+8539,"Charleston, SC, United States",61.13,74.15,1295,1644,249.82,65,"{'Walking': 4, 'Car': 88, 'Working from Home': 4, 'Motorbike': 4}",0.923875804,57,2,50,20,(High),(High)
+9221,"Augusta, GA, United States",54.02,70,1100,1300,154.44,75,{'Car': 100},0.80427201,0,1.13,50,15,(Moderate),(High)
+9275,"Jonesboro, AR, United States",56.62,90.74,850,900,117.5,90,{'Car': 100},0.775609511,33,0,35,7,(Moderate),(Very High)
+9276,"Green Bay, WI, United States",68.96,63.43,667,767,135.56,62,{'Car': 100},0.79436555,0,0,60,12,(High),(High)
+9481,"Albany, GA, United States",28.73,66.67,350,400,159.25,78,,0.805460967,0,0,33,11,(Low),(High)
+9519,"Worcester, MA, United States",50.98,60.3,1167,1300,185.46,63,{'Car': 100},0.870711296,57,0,75,15,(Moderate),(High)
+9659,"Auburn, AL, United States",80.29,77.78,667,717,164.67,55,{'Walking': 100},0.825405768,0,0,50,10,(Very High),(High)
+9739,"Bemidji, MN, United States",26.47,0,800,825,200,73,,0.792516158,0,0,75,20,(Low),
+9975,"Abilene, TX, United States",37.51,9.72,800,600,133.95,63,"{'Car': 75, 'Working from Home': 25}",0.753771162,50,0,55,13,(Low),(Very Low)
+10657,"Daytona Beach, FL, United States",36.86,67.22,975,1075,155.77,59,"{'Car': 75, 'Bus/Trolleybus': 25}",0.868465826,60,2.25,58,12,(Low),(High)
+10778,"Adrian, MI, United States",89.71,66.67,0,0,95,40,{'Car': 100},0.758173791,20,2,48,18,(Very High),(High)
+11117,"Canton, OH, United States",39.41,83.89,599,699,166.25,72,"{'Walking': 43, 'Car': 57}",0.821047126,0,0,50,17,(Low),(Very High)
+11786,"Clarksville, TN, United States",55.67,56.25,750,800,133.91,74,{'Car': 100},0.834651788,43,2.5,45,12,(Moderate),(Moderate)
+12065,"Lisle, IL, United States",87.16,0,550,700,200,30,,0,200,5.5,50,25,(Very High),
+12556,"Muskogee, OK, United States",16.18,0,475,600,140,62,,0.758174028,0,6,37,12,(Very Low),
+12654,"Meadville, PA, United States",0,0,0,0,0,0,,0,0,0,55,15,,
+13050,"Anderson, IN, United States",0,0,650,0,200,63,{'Bus/Trolleybus': 100},0,24,1,0,30,,
+13127,"Longmeadow, MA, United States",64.71,63.89,0,0,300,0,,0,0,0,0,0,(High),(High)
+13727,"Boone, NC, United States",95.59,43.06,1000,1500,138.33,51,{'Bus/Trolleybus': 100},0.823688847,0,0,53,30,(Very High),(Moderate)
+13843,"Sherman, TX, United States",38.97,0,750,850,165,73,{'Car': 100},0.792516158,0,0,43,12,(Low),
+13860,"Amherst, MA, United States",72.79,91.67,1300,1700,279.33,76,{'Car': 100},0.897392885,0,0,60,12,(High),(Very High)
+13900,"Florence, KY, United States",82.35,75,738,575,157.69,70,,0.884976376,80,2,47,15,(Very High),(High)
+33377,"Danville, VA, United States",29.04,0,500,850,190,93,,0.910072721,0,0,36,13,(Low),
+33638,"Bloomfield, NJ, United States",0,0,1000,1625,150,72,,0,0,3.5,75,25,,
+34660,"Garden City, NY, United States",0,0,0,0,200,50,,0,200,3,0,0,,
+35236,"Yellow Springs, OH, United States",0,0,0,0,0,0,,0,0,0,40,12,,
+35589,"Glendale, AZ, United States",55.39,76.39,0,1650,260,80,{'Car': 100},0,0,0,50,15,(Moderate),(High)
+38983,"Alamosa, CO, United States",0,0,2000,1000,70.14,75,,0,0,0,35,15,,
+39034,"Spearfish, SD, United States",0,0,550,850,0,65,,0,100,5,53,13,,
+3391,"Atlanta, GA, United States",37.13,68.63,1275,1708,183.6,70,"{'Walking': 3, 'Train/Metro': 6, 'Car': 83, 'Bus/Trolleybus': 3, 'Working from Home': 3, 'Bike': 1}",0.926275296,95,2.5,60,15,(Low),(High)
+3399,"Boise, ID, United States",63.72,81.26,1253,1477,218.46,63,"{'Walking': 8, 'Car': 83, 'Working from Home': 6, 'Bike': 3}",0.991701955,45,1.5,60,20,(High),(Very High)
+3400,"Boston, MA, United States",62.78,75.84,1909,2654,196,63,"{'Walking': 9, 'Tram/Streetcar': 2, 'Train/Metro': 8, 'Car': 62, 'Bus/Trolleybus': 7, 'Working from Home': 6, 'Bike': 4}",0.905159206,90,2.4,90,20,(High),(High)
+3402,"Buffalo, NY, United States",55.5,76.96,853,1060,184.96,73,"{'Walking': 11, 'Car': 85, 'Bike': 4}",1.008272757,75,2,73,15,(Moderate),(High)
+3403,"Charlotte, NC, United States",54.7,73.93,1197,1721,157.03,63,"{'Walking': 3, 'Car': 91, 'Working from Home': 5}",0.864001193,88,2.42,60,12,(Moderate),(High)
+3405,"Chicago, IL, United States",33.99,65.81,1260,1841,168.09,60,"{'Walking': 13, 'Train/Metro': 16, 'Car': 57, 'Bus/Trolleybus': 6, 'Working from Home': 5, 'Bike': 4}",1.065019791,105,2.5,75,16,(Low),(High)
+3407,"Cleveland, OH, United States",36.3,80.52,919,1297,226.81,68,"{'Car': 83, 'Bus/Trolleybus': 10, 'Working from Home': 7}",0.832670406,95,2.5,80,12,(Low),(Very High)
+3420,"Fresno, CA, United States",47.23,79.92,1161,1337,219.53,62,"{'Walking': 5, 'Car': 86, 'Working from Home': 5, 'Bike': 5}",1.275158644,30,1.5,63,15,(Moderate),(High)
+3427,"Honolulu, HI, United States",53.95,72.53,1637,2017,294.62,63,"{'Car': 91, 'Bus/Trolleybus': 5, 'Working from Home': 5}",1.161234433,70,2.75,98,18,(Moderate),(High)
+3431,"Indianapolis, IN, United States",42.87,73.25,926,1344,168.78,70,"{'Walking': 4, 'Car': 91, 'Bus/Trolleybus': 2, 'Working from Home': 2}",0.863578505,43,1.73,60,15,(Moderate),(High)
+3441,"Long Beach, CA, United States",42.9,79.28,1477,1995,122.21,62,"{'Train/Metro': 9, 'Car': 91}",1.199737668,65,1.5,68,14,(Moderate),(High)
+3442,"Los Angeles, CA, United States",49.78,61.71,1681,2309,145.99,65,"{'Walking': 3, 'Train/Metro': 1, 'Car': 88, 'Bus/Trolleybus': 2, 'Working from Home': 3, 'Bike': 2, 'Motorbike': 2}",1.288871482,100,1.75,80,20,(Moderate),(High)
+3449,"Milwaukee, WI, United States",33.29,66.8,864,1285,171.6,61,"{'Walking': 7, 'Car': 86, 'Working from Home': 3, 'Bike': 3}",0.810942252,53,2.5,55,15,(Low),(High)
+3465,"Philadelphia, PA, United States",37.09,69.84,1163,1784,171.62,64,"{'Walking': 17, 'Train/Metro': 7, 'Car': 58, 'Bus/Trolleybus': 2, 'Working from Home': 10, 'Bike': 5, 'Motorbike': 2}",0.976705109,96,2.5,60,15,(Low),(High)
+3467,"Pittsburgh, PA, United States",61.22,75.58,934,1371,214.39,72,"{'Walking': 8, 'Tram/Streetcar': 3, 'Car': 75, 'Bus/Trolleybus': 11, 'Working from Home': 3}",0.958454009,98,2.75,60,15,(High),(High)
+3473,"Riverside, CA, United States",61.03,59.57,1450,1718,145.99,65,"{'Train/Metro': 6, 'Car': 81, 'Bus/Trolleybus': 6, 'Working from Home': 6}",1.208785415,30,3,64,16,(High),(Moderate)
+3475,"Sacramento, CA, United States",51.3,69.01,1430,1752,210.79,56,"{'Walking': 9, 'Car': 77, 'Working from Home': 8, 'Bike': 5, 'Motorbike': 2}",1.212648859,100,2.75,65,15,(Moderate),(High)
+3481,"San Bernardino, CA, United States",27.42,66.67,1200,1400,192.4,66,{'Working from Home': 100},1.225347519,70,1.88,64,20,(Low),(High)
+3488,"Shreveport, LA, United States",28.34,55.21,0,0,166.16,61,{'Car': 100},0.780364487,0,0,50,15,(Low),(Moderate)
+7550,"Helena, MT, United States",89.71,0,1000,933,104.69,80,{'Car': 100},1.035906956,25,3,48,15,(Very High),
+7813,"Thousand Oaks, CA, United States",85.43,11.11,1800,2350,165.67,58,{'Car': 100},1.279438318,0,0,75,15,(Very High),(Very Low)
+7938,"Gainesville, GA, United States",50.25,77.78,1000,1200,129.93,70,,0.812923542,0,2.5,43,14,(Moderate),(High)
+7944,"Allentown, PA, United States",34.21,71.76,1450,1300,131.25,63,{'Car': 100},0.91791012,0,0,48,14,(Low),(High)
+8019,"Chico, CA, United States",38.24,69.44,1131,1313,255.5,61,{'Car': 100},1.226815303,44,2.38,65,15,(Low),(High)
+8320,"Brunswick, GA, United States",0,72.22,1018,950,180.12,92,{'Car': 100},0.932527346,0,2.65,40,15,,(High)
+8358,"Kenosha, WI, United States",48.09,0,0,0,248.68,57,{'Car': 100},0.883039365,0,1,53,15,(Moderate),
+8406,"Providence, RI, United States",49.78,64.44,1572,1622,174.73,73,"{'Car': 83, 'Bike': 17}",1.011515001,0,3,70,16,(Moderate),(High)
+8901,"Mount Pleasant, MI, United States",70.59,0,950,1050,138.75,67,,0.845350568,0,0,57,18,(High),
+9224,"Eugene, OR, United States",55.21,74.88,946,1133,148.85,66,"{'Walking': 8, 'Car': 69, 'Bus/Trolleybus': 8, 'Bike': 15}",1.00742024,50,1.75,68,15,(Moderate),(High)
+9234,"Pomona, CA, United States",45.1,44.44,520,0,65,50,{'Car': 100},1.161036171,0,0,42,15,(Moderate),(Moderate)
+9294,"Owensboro, KY, United States",78.43,35.19,667,750,196.67,66,{'Car': 100},0.79489408,0,1,42,15,(High),(Low)
+9358,"Bowie, MD, United States",86.03,0,1759,1986,135.36,64,,0.936930488,0,0,50,16,(Very High),
+9462,"Waukesha, WI, United States",67.65,36.11,757,958,110,62,{'Car': 100},0.810942252,58,2,50,15,(High),(Low)
+9685,"Conway, AR, United States",55.6,100,0,0,167.43,105,,0,0,0,38,10,(Moderate),(Very High)
+9731,"San Luis Obispo, CA, United States",70.54,71.06,1800,1950,233.98,56,"{'Walking': 12, 'Car': 88}",1.224261543,0,1.5,75,15,(High),(High)
+9764,"Peoria, IL, United States",51.47,73.68,640,0,150.53,66,"{'Walking': 14, 'Car': 71, 'Bike': 14}",1.059726297,35,1,42,15,(Moderate),(High)
+10812,"Bluefield, WV, United States",39.71,69.44,0,0,197.04,45,,0.832141966,0,0,40,12,(Low),(High)
+11087,"Northfield, MN, United States",86.76,0,0,0,177.42,83,{'Walking': 100},0,0,0,40,10,(Very High),
+11983,"Concord, NC, United States",45.59,47.22,0,0,182.99,71,{'Car': 100},0.937810787,40,1.25,68,17,(Moderate),(Moderate)
+12291,"Pasadena, CA, United States",80.05,86.85,1983,2472,157.02,56,{'Car': 100},1.194255952,100,1.75,65,17,(Very High),(Very High)
+12452,"Lewisburg, PA, United States",0,0,575,0,167.43,40,,0.921960464,96,2.5,40,15,,
+12757,"Bowling Green, OH, United States",87.25,72.22,350,0,106.67,67,,0,0,0,30,13,(Very High),(High)
+13128,"Fullerton, CA, United States",56.62,84.72,1400,1900,66.81,55,,1.162357032,0,0,100,23,(Moderate),(Very High)
+33898,"Dubuque, IA, United States",70.1,36.11,0,0,92.5,58,,0,0,0,50,17,(High),(Low)
+35641,"Ellensburg, WA, United States",0,0,600,750,0,0,,0,0,0,65,10,,
+36113,"Conway, SC, United States",32.35,0,800,700,125,85,,0,0,0,50,15,(Low),
+36348,"Hartsville, SC, United States",0,0,0,0,107.5,58,,1.05404649,0,0,40,10,,
+39327,"Clemson, SC, United States",0,0,600,675,237.88,65,,0.737040027,0,0,50,12,,
+39513,"San Marcos, CA, United States",0,0,2000,3000,84.19,35,,0,60,3,30,10,,
+39560,,0,0,0,0,0,0,,0,0,0,0,0,,
+3393,"Austin, TX, United States",62.94,70.87,1364,2084,148.05,65,"{'Walking': 4, 'Car': 90, 'Bus/Trolleybus': 2, 'Working from Home': 2, 'Bike': 2}",0.81204289,41,1.25,60,16,(High),(High)
+3396,"Baltimore, MD, United States",24.43,77.3,993,1444,132.76,70,"{'Walking': 16, 'Tram/Streetcar': 3, 'Train/Metro': 19, 'Car': 56, 'Bus/Trolleybus': 3, 'Working from Home': 3}",0.898625403,74,1.9,72,15,(Low),(High)
+3411,"Dallas, TX, United States",49.12,66.2,1254,1664,159.63,63,"{'Walking': 3, 'Train/Metro': 2, 'Car': 89, 'Bus/Trolleybus': 1, 'Working from Home': 4, 'Motorbike': 1}",0.856798084,96,4,60,15,(Moderate),(High)
+3413,"Des Moines, IA, United States",57.8,80.2,963,930,164.09,82,"{'Walking': 5, 'Car': 95}",0.906110236,48,1.38,50,16,(Moderate),(Very High)
+3415,"Durham, NC, United States",45.44,75.67,1266,1540,126.78,65,"{'Car': 91, 'Bus/Trolleybus': 9}",0.833859278,36,2,65,12,(Moderate),(High)
+3435,"Jacksonville, FL, United States",43.76,69.66,1074,1243,141.08,70,"{'Car': 91, 'Working from Home': 9}",0.914299555,63,1.75,60,14,(Moderate),(High)
+3448,"Miami, FL, United States",47.36,63.47,1574,2254,139.13,70,"{'Walking': 5, 'Car': 92, 'Bus/Trolleybus': 1, 'Working from Home': 1, 'Bike': 2}",0.937142011,90,2.5,80,17,(Moderate),(High)
+3454,"New Orleans, LA, United States",33.75,62.7,1071,1502,204.33,74,"{'Walking': 18, 'Tram/Streetcar': 5, 'Car': 68, 'Working from Home': 5, 'Bike': 5}",0.876522996,47,1.25,68,20,(Low),(High)
+7500,"Fairmont, WV, United States",61.76,0,588,700,123.99,55,,0.789874437,0,0,40,12,(High),
+7608,"Columbia, SC, United States",48.39,72.09,811,1052,151.67,65,{'Car': 100},0.791459718,0,0,60,10,(Moderate),(High)
+7738,"Fort Myers, FL, United States",55.04,71.37,1058,1437,130.76,59,"{'Car': 93, 'Bike': 7}",0.88959959,30,2.13,58,13,(Moderate),(High)
+7754,"Springfield, MO, United States",42.31,64.35,1000,700,195.47,72,"{'Walking': 9, 'Car': 73, 'Bus/Trolleybus': 9, 'Working from Home': 9}",0.826647335,70,0,49,10,(Moderate),(High)
+7859,"Ann Arbor, MI, United States",79.18,77.2,1125,1575,155.95,61,"{'Walking': 5, 'Car': 79, 'Bus/Trolleybus': 16}",0.870094817,55,1.5,60,12,(High),(High)
+7860,"Ypsilanti, MI, United States",49.37,0,748,1075,155.95,60,{'Walking': 100},0.847992289,0,1.5,60,12,(Moderate),
+7928,"Columbus, GA, United States",25.48,75,825,1125,164.99,53,"{'Walking': 14, 'Car': 86}",0.830557324,65,1.5,40,15,(Low),(High)
+8022,"Tallahassee, FL, United States",40.04,68.98,1050,1500,183.26,71,"{'Walking': 8, 'Car': 92}",0.838357293,20,0,60,12,(Moderate),(High)
+8366,"Irvine, CA, United States",78.56,77.62,1934,2296,147.16,64,"{'Walking': 14, 'Car': 71, 'Working from Home': 10, 'Bike': 5}",1.363259975,25,1.5,85,16,(High),(High)
+8441,"Hanover, NH, United States",86.47,0,975,1150,215.85,72,{'Car': 100},0.875994938,60,0,70,15,(Very High),
+8543,"Fort Collins, CO, United States",72.86,78.67,1317,1590,142.7,60,"{'Car': 88, 'Working from Home': 6, 'Bike': 6}",0.92367779,25,2.5,50,11,(High),(High)
+8904,"Melbourne, FL, United States",69.69,61.73,1317,1343,130.76,59,{'Car': 100},0.852395427,30,1.25,49,14,(High),(High)
+9080,"Richmond, KY, United States",49.55,38.89,667,800,232.5,69,"{'Car': 33, 'Working from Home': 67}",0.842708848,30,3.5,30,12,(Moderate),(Low)
+9094,"Prescott, AZ, United States",56.41,65,1167,1236,166.46,69,{'Car': 100},0.986682772,0,0,55,15,(Moderate),(High)
+9246,"Fayetteville, NC, United States",23.69,72.78,700,800,137.5,68,{'Car': 100},0.823688847,0,0,33,12,(Low),(High)
+9281,"Redmond, WA, United States",85.14,80.09,1956,2024,133.9,61,"{'Walking': 14, 'Car': 71, 'Bike': 14}",1.160309819,54,2.75,75,19,(Very High),(Very High)
+9872,"Ithaca, NY, United States",78.53,63.43,1067,1650,99.76,66,"{'Walking': 17, 'Car': 50, 'Bus/Trolleybus': 17, 'Working from Home': 17}",0.900298647,45,1.5,80,15,(High),(High)
+9911,"Dickinson, ND, United States",100,0,0,0,355.81,63,,0.816291643,0,0,73,18,(Very High),
+9925,"Brooklyn, NY, United States",59.24,64.34,1903,2711,137.09,66,"{'Walking': 8, 'Tram/Streetcar': 8, 'Train/Metro': 52, 'Car': 20, 'Bus/Trolleybus': 8, 'Bike': 4}",0.960001385,129,2.75,90,17,(Moderate),(High)
+10027,"Queens, NY, United States",57.37,27.78,1683,2271,194.7,63,"{'Walking': 20, 'Car': 60, 'Bus/Trolleybus': 20}",0.926715852,127,2.75,75,20,(Moderate),(Low)
+10274,"Salem, OR, United States",54.08,64.79,1013,1188,215.14,80,"{'Car': 93, 'Bike': 7}",1.045329046,45,1.6,55,12,(Moderate),(High)
+10718,"Greenville, NC, United States",42.16,72.64,900,1350,172.5,61,{'Car': 100},0.826506554,0,0,50,12,(Moderate),(High)
+10809,"Bronx, NY, United States",34.45,47.22,1583,3050,132.51,75,{'Bus/Trolleybus': 100},1.02032067,138,2.63,60,15,(Low),(Moderate)
+10847,"Johnson City, TN, United States",75.84,66.67,600,1000,217.57,60,{'Car': 100},0.809951762,0,0,58,15,(High),(High)
+10918,"Aurora, CO, United States",49.66,75,1153,1591,138.59,65,{'Car': 100},0.844118042,0,1.5,70,11,(Moderate),(High)
+11189,"Boca Raton, FL, United States",68.56,69.68,2318,2268,173.18,91,{'Car': 100},0.893430044,50,5,80,15,(High),(High)
+11312,"Spartanburg, SC, United States",41.24,59.44,750,850,217.57,60,{'Car': 100},0.809951762,31,1,35,11,(Moderate),(Moderate)
+11933,"San Rafael, CA, United States",80.64,73.61,1400,1750,175.92,84,"{'Car': 60, 'Working from Home': 20, 'Bike': 20}",1.265032291,40,2,65,20,(Very High),(High)
+11975,"Fairfield, CT, United States",47.11,81.94,0,2400,274.48,70,{'Car': 100},0.937810787,0,0,75,20,(Moderate),(Very High)
+12441,"Dover, DE, United States",55.15,50,0,1300,325,69,{'Car': 100},0.903820922,0,0,60,25,(Moderate),(Moderate)
+12497,"Ankeny, IA, United States",0,94.44,0,950,163.25,83,,0,0,0,45,10,,(Very High)
+12573,"Big Rapids, MI, United States",70.59,0,0,0,0,0,,0,0,0,25,7,(High),
+12633,"Doylestown, PA, United States",92.16,75.93,1200,1400,114.08,62,{'Car': 100},0.91791012,70,0,50,18,(Very High),(High)
+12919,"Pueblo, CO, United States",45.5,50.4,1050,1000,234.9,68,{'Car': 100},0.92795371,43,3,60,14,(Moderate),(Moderate)
+33778,"New London, CT, United States",52.35,0,0,0,0,0,,0,0,0,0,0,(Moderate),
+34092,"Ada, OK, United States",11.76,0,0,0,225,75,,0,0,0,0,0,(Very Low),
+34129,,0,0,0,0,0,0,,0,0,0,0,0,,
+34289,"Elizabeth City, NC, United States",75,91.67,0,0,0,0,,0.842708848,0,0,35,12,(High),(Very High)
+34781,"Elmira, NY, United States",39.71,27.78,1150,650,243.33,63,{'Car': 100},0.898184979,0,1.75,48,16,(Low),(Low)
+36020,"Quincy, MA, United States",52.45,0,1800,2000,200,78,,0.944415088,90,2.4,60,13,(Moderate),
+36040,"Cleveland, MS, United States",0,0,0,0,0,0,,0,0,0,75,20,,
+38996,"Charleston, IL, United States",0,0,0,0,0,0,,0,0,0,65,20,,
+3397,"Baton Rouge, LA, United States",32,67.31,805,920,128.86,71,"{'Car': 89, 'Working from Home': 6, 'Bike': 6}",0.837689673,56,1.75,60,15,(Low),(High)
+3406,"Cincinnati, OH, United States",51.58,68.77,890,1306,135.92,56,"{'Car': 94, 'Working from Home': 6}",0.824393005,78,2,55,15,(Moderate),(High)
+3424,"Greensboro, NC, United States",56.64,58.46,1100,1467,151.67,74,{'Car': 100},0.938999658,75,1.5,65,15,(Moderate),(Moderate)
+3428,"Houston, TX, United States",36.03,71.77,1062,1451,140.55,60,"{'Walking': 2, 'Car': 90, 'Bus/Trolleybus': 5, 'Working from Home': 2, 'Bike': 1, 'Motorbike': 1}",0.788855522,40,1.25,58,18,(Low),(High)
+3476,"Saint Louis, MO, United States",29.6,80.85,719,1058,181.11,58,"{'Train/Metro': 4, 'Car': 91, 'Working from Home': 2, 'Motorbike': 2}",0.837895128,78,2.25,53,15,(Low),(Very High)
+3489,"Spokane, WA, United States",44.94,63.66,927,1081,179.79,66,"{'Walking': 6, 'Car': 89, 'Bus/Trolleybus': 3, 'Working from Home': 3}",0.974068522,58,2,60,15,(Moderate),(High)
+3498,"Wichita, KS, United States",49.36,59.63,750,1075,179.13,57,"{'Walking': 5, 'Car': 90, 'Bike': 5}",0.863904894,25,2.5,50,12,(Moderate),(Moderate)
+7420,"Knoxville, TN, United States",58.3,69.91,867,988,161.72,65,"{'Car': 94, 'Working from Home': 6}",0.838859591,60,1.25,50,15,(Moderate),(High)
+7641,"Normal, IL, United States",0,0,800,975,214.82,59,{'Car': 100},0.849577582,0,0,50,13,,
+7696,"Lancaster, PA, United States",57.01,91.07,1040,988,162.72,78,"{'Car': 83, 'Bike': 17}",0.96546109,51,2,60,20,(Moderate),(Very High)
+7721,"Roanoke, VA, United States",59.22,59.65,838,917,163.99,88,{'Car': 100},0.862786189,125,1.75,70,15,(Moderate),(Moderate)
+7724,"Greenville, SC, United States",62.18,77.13,907,1500,129.93,73,"{'Car': 94, 'Working from Home': 6}",0.812923542,0,0,57,14,(High),(High)
+8103,"Tiffin, OH, United States",29.41,77.78,1200,1400,95,50,,0.832141966,0,0,43,5,(Low),(High)
+8198,"Bloomington, IN, United States",63.71,70.83,545,675,135.92,56,{'Car': 100},0.824393005,30,0,55,12,(High),(High)
+8496,"High Point, NC, United States",33.97,59.72,760,0,191.28,49,{'Car': 100},0.791459718,40,1.25,55,14,(Low),(Moderate)
+8684,"Fairfax, VA, United States",77.93,83.43,1733,1850,151.07,66,{'Car': 100},0.941802813,0,3,65,13,(High),(Very High)
+9096,"Erie, PA, United States",51.56,61.11,680,650,191.19,74,{'Car': 100},0.954783952,27,1.5,50,11,(Moderate),(High)
+9124,"Ames, IA, United States",87.06,63.89,0,750,121.28,64,{'Car': 100},0.81981419,35,1,45,12,(Very High),(High)
+9775,"Statesboro, GA, United States",83.09,41.67,0,0,249.82,65,{'Car': 100},0.923875804,0,0,40,15,(Very High),(Moderate)
+10377,"Cambridge, MA, United States",63.79,74.21,2025,2327,185.46,75,"{'Walking': 29, 'Car': 14, 'Bus/Trolleybus': 14, 'Bike': 43}",0.914299685,90,2.5,75,15,(High),(High)
+10658,"Galesburg, IL, United States",52.94,47.22,0,475,101.76,63,,0.921960464,0,0,55,12,(Moderate),(Moderate)
+10898,"Flint, MI, United States",23.9,56.94,0,0,150,72,"{'Walking': 33, 'Car': 67}",0.845615138,0,0,75,15,(Low),(Moderate)
+10953,"Beaumont, TX, United States",37.92,61.11,0,0,175,52,{'Car': 100},0.771382633,40,1.75,43,10,(Low),(High)
+11186,"Lakeland, FL, United States",57.54,86.76,1067,1309,158.05,61,{'Car': 100},0.952780807,49,1.5,50,15,(Moderate),(Very High)
+11389,"Kissimmee, FL, United States",34.96,84.72,1207,1307,178.81,49,{'Car': 100},0.862522157,40,0,45,15,(Low),(Very High)
+11437,"Bloomington, IL, United States",45.59,82.41,725,850,174.95,72,{'Car': 100},0.915620765,35,1.38,45,15,(Moderate),(Very High)
+12357,"Durango, CO, United States",0,0,1800,2100,138.48,62,{'Car': 100},0.855447902,0,0,55,15,,
+12442,"South Bend, IN, United States",38.32,62.5,712,995,284.3,66,{'Car': 100},0.915620596,0,0,50,12,(Low),(High)
+12529,"Holland, MI, United States",45.96,0,575,650,167.33,63,{'Car': 100},0.937987167,0,0,65,16,(Moderate),
+12617,"New Rochelle, NY, United States",80.15,0,0,0,147.5,58,"{'Train/Metro': 50, 'Car': 50}",1.450304569,0,0,40,17,(Very High),
+12764,"Geneva, NY, United States",75.74,0,0,0,182.14,60,{'Car': 100},0,0,0,35,25,(High),
+13739,"Florence, SC, United States",61.03,0,800,1100,340,75,{'Car': 100},0.924602184,0,0,70,12,(High),
+13793,"Bangor, ME, United States",58.82,84.26,700,800,229.08,67,{'Car': 100},0.911393866,45,1.5,60,14,(Moderate),(Very High)
+33559,,0,0,0,0,0,0,,0,0,0,0,0,,
+33782,"Needham, MA, United States",82.35,0,0,0,300,80,,0,0,0,0,0,(Very High),
+33974,"Hastings, NE, United States",0,0,0,0,0,54,,0,0,2,0,0,,
+34328,"Kent, OH, United States",0,0,950,1350,0,75,,0.8044039,40,1,60,13,,
+34481,"Jacksonville, AL, United States",0,0,0,0,183.6,70,,0.926275296,0,0,60,15,,
+34755,"Framingham, MA, United States",46.32,55.56,1925,1750,132.83,70,{'Walking': 100},0.842708848,0,1.38,68,18,(Moderate),(Moderate)
+34924,"Escondido, CA, United States",43.14,0,1925,2098,203.02,66,{'Car': 100},1.187849926,72,2.5,80,22,(Moderate),
+35157,"Kennesaw, GA, United States",0,0,1500,1800,362.5,68,,0,0,0,75,15,,
+35417,"Hannibal, MO, United States",0,0,0,0,0,0,,0,0,0,22,8,,
+36189,,89.71,0,0,0,0,0,,0,0,0,0,0,(Very High),
+36372,"Frankfort, KY, United States",30.88,0,700,700,0,80,,0,0,0,25,8,(Low),
+37831,,0,0,0,0,0,0,,0,0,0,0,0,,
+37838,,0,0,0,0,0,0,,0,0,0,0,0,,
+38602,"Steubenville, OH, United States",0,0,0,0,0,0,,0,0,0,25,12,,
+38830,"Greenwood, SC, United States",0,0,0,0,0,90,,0,0,0,45,10,,
+38945,"Gary, IN, United States",0,0,500,800,150,50,,0,0,0,0,0,,
+39114,"Newberg, OR, United States",0,0,900,0,0,0,,0,0,0,0,0,,
+3390,"Arlington, VA, United States",79.15,82.03,1613,2042,135.36,64,"{'Train/Metro': 10, 'Car': 60, 'Bus/Trolleybus': 10, 'Working from Home': 10, 'Bike': 10}",0.866836695,90,3.18,85,16,(High),(Very High)
+3409,"Columbus, OH, United States",56.55,73.95,911,1222,177.73,62,"{'Walking': 6, 'Car': 90, 'Bus/Trolleybus': 2, 'Bike': 2}",0.845174582,62,2.3,60,15,(Moderate),(High)
+3412,"Denver, CO, United States",55.27,69.55,1434,1799,134.57,63,"{'Walking': 6, 'Train/Metro': 2, 'Car': 81, 'Bus/Trolleybus': 2, 'Working from Home': 9, 'Bike': 1}",0.96162155,114,3,66,17,(Moderate),(High)
+3417,"Fort Wayne, IN, United States",56.53,77.78,756,795,172.13,49,"{'Car': 75, 'Bus/Trolleybus': 25}",0.873050951,0,0,60,14,(Moderate),(High)
+3429,"Huntington, WV, United States",46.53,75.53,500,850,159.05,59,{'Car': 100},0.877051215,0,2,45,12,(Moderate),(High)
+3439,"Lincoln, NE, United States",66.57,75.42,896,990,123.32,69,"{'Walking': 10, 'Car': 70, 'Working from Home': 10, 'Bike': 10}",0.900210428,30,1.75,55,17,(High),(High)
+3444,"Lubbock, TX, United States",50.73,77.53,700,750,168,66,"{'Walking': 11, 'Car': 78, 'Bike': 11}",0.826198274,105,2,48,18,(Moderate),(High)
+3456,"Newark, NJ, United States",28.53,59.41,2030,2263,291,86,"{'Walking': 17, 'Car': 83}",0.944855658,126,4.03,60,14,(Low),(Moderate)
+3457,"Norfolk, VA, United States",42.47,66.67,1243,1284,135.36,64,{'Car': 100},0.899373952,80,2.75,63,15,(Moderate),(High)
+3459,"Oakland, CA, United States",33.51,77.4,2344,2561,289.67,61,"{'Walking': 10, 'Train/Metro': 10, 'Car': 62, 'Bus/Trolleybus': 10, 'Working from Home': 3, 'Bike': 3}",1.275052946,95,3.75,70,18,(Low),(High)
+3460,"Oklahoma City, OK, United States",50.69,74.04,853,1167,156.18,70,"{'Walking': 4, 'Car': 93, 'Working from Home': 4}",0.795157957,50,2,50,12,(Moderate),(High)
+3461,"Omaha, NE, United States",54.16,75.94,784,877,196.37,82,"{'Walking': 4, 'Car': 93, 'Bus/Trolleybus': 4}",0.839604924,54,1.38,73,17,(Moderate),(High)
+3469,"Portland, OR, United States",48.14,73.18,1356,1722,206.19,70,"{'Walking': 1, 'Train/Metro': 5, 'Car': 79, 'Bus/Trolleybus': 7, 'Working from Home': 1, 'Bike': 6, 'Motorbike': 1}",1.069032293,100,2.5,70,15,(Moderate),(High)
+3470,"Raleigh, NC, United States",65.09,75.64,1090,1505,145.37,62,"{'Walking': 6, 'Car': 89, 'Bus/Trolleybus': 2, 'Working from Home': 2, 'Bike': 2}",0.868549748,40,2,60,15,(High),(High)
+3474,"Rochester, NY, United States",36.31,72.08,938,868,136.56,63,"{'Walking': 9, 'Car': 86, 'Bus/Trolleybus': 5}",0.946792782,56,1,60,15,(Low),(High)
+3480,"San Antonio, TX, United States",51.49,70.59,1004,1375,194.12,67,"{'Walking': 4, 'Car': 88, 'Bus/Trolleybus': 2, 'Working from Home': 7}",0.757513406,38,1.5,58,15,(Moderate),(High)
+3482,"San Diego, CA, United States",62.95,71.01,1840,2321,162.73,69,"{'Walking': 1, 'Train/Metro': 1, 'Car': 88, 'Bus/Trolleybus': 4, 'Working from Home': 5, 'Motorbike': 2}",1.291125103,74,2.5,80,15,(High),(High)
+3493,"Toledo, OH, United States",35.62,53.17,567,667,251.88,62,"{'Walking': 33, 'Car': 67}",0.811536803,80,1.5,48,15,(Low),(Moderate)
+3495,"Tulsa, OK, United States",49.05,68.62,800,1020,198.6,63,"{'Walking': 5, 'Car': 86, 'Working from Home': 5, 'Bike': 5}",0.798386727,40,2.5,47,10,(Moderate),(High)
+3496,"Virginia Beach, VA, United States",58.25,69.78,1020,1288,153.79,73,{'Car': 100},0.899373952,70,2,73,15,(Moderate),(High)
+7551,"Lewiston, ME, United States",57.84,0,0,0,185.46,75,,0.914299685,0,0,35,15,(Moderate),
+7557,"Joplin, MO, United States",56.65,65.08,650,675,182.08,65,{'Car': 100},0.886561532,0,0,55,15,(Moderate),(High)
+7593,"Appleton, WI, United States",58.44,71.94,700,0,168.09,58,{'Car': 100},0.853804262,0,0,55,9,(Moderate),(High)
+7605,"Las Cruces, NM, United States",62.12,57.99,700,738,133.29,63,{'Car': 100},0.888718873,30,1,38,10,(High),(Moderate)
+7720,"Syracuse, NY, United States",37.56,56.82,840,928,111,68,"{'Walking': 11, 'Car': 78, 'Working from Home': 11}",0.912626676,50,2.5,60,14,(Low),(Moderate)
+7771,"Scranton, PA, United States",54.13,37.5,0,635,243.84,86,{'Car': 100},0.938163311,60,1.75,65,15,(Moderate),(Low)
+7801,"Longview, TX, United States",46.21,75,600,850,193.75,79,{'Car': 100},0.76213673,0,0,50,15,(Moderate),(High)
+7909,"Rockford, IL, United States",28.41,59.9,550,0,211,62,{'Car': 100},0.853143832,0,0,50,15,(Low),(Moderate)
+7936,"Manchester, NH, United States",53.34,78.12,1121,1429,174.73,73,"{'Walking': 40, 'Car': 60}",0.853011661,20,2.75,75,20,(Moderate),(High)
+7940,"Marietta, GA, United States",70.76,77.43,1000,1339,142.6,62,{'Car': 100},0.90465739,69,2.5,60,14,(High),(High)
+7971,"Princeton, NJ, United States",74.97,75,1702,2016,165.77,73,"{'Car': 80, 'Bus/Trolleybus': 20}",0.931647055,0,1.6,80,16,(High),(High)
+7982,"Macon, GA, United States",25.34,50,675,600,212.96,71,{'Car': 100},0.830557324,20,0.5,50,9,(Low),(Moderate)
+8025,"Fort Lauderdale, FL, United States",50.43,68.09,1488,1951,130.76,59,"{'Car': 95, 'Working from Home': 5}",0.934013364,65,2.5,75,20,(Moderate),(High)
+8064,"West Palm Beach, FL, United States",43.62,67.18,1551,1895,171.37,71,{'Car': 100},0.879693098,70,3,65,15,(Moderate),(High)
+8105,"Davenport, IA, United States",43.38,86.11,650,1050,136.94,72,{'Car': 100},0.80220272,0,0,42,13,(Moderate),(Very High)
+8399,"Decatur, IL, United States",35.29,0,0,0,183.49,67,"{'Car': 67, 'Working from Home': 33}",0.896600234,0,0,54,12,(Low),
+8579,"Lake Charles, LA, United States",42.4,65.28,800,1188,193.39,70,{'Car': 100},0.806429471,0,0.99,50,10,(Moderate),(High)
+8666,"Reading, PA, United States",28.21,72.22,950,1000,134.6,66,{'Car': 100},0.93807518,0,0,60,15,(Low),(High)
+8779,"Fargo, ND, United States",56.17,57.78,783,890,130.55,67,{'Car': 100},0.920551801,0,0,45,12,(Moderate),(Moderate)
+8868,"Williamsport, PA, United States",57.35,0,975,933,218.1,92,,0.892021239,45,0,65,12,(Moderate),
+8893,"Midland, MI, United States",89.38,78.47,700,1200,106,63,{'Car': 100},0.871239628,60,0,37,10,(Very High),(High)
+9217,"Murfreesboro, TN, United States",57.17,62.5,1000,1118,177.06,68,{'Car': 100},0.798856663,0,0,60,14,(Moderate),(High)
+9227,"Klamath Falls, OR, United States",64.86,45.56,550,650,202,65,,1.006319718,0,0,40,14,(High),(Moderate)
+9244,"Stillwater, OK, United States",57.35,69.44,500,650,140,67,{'Walking': 100},0.758174028,35,1,55,12,(Moderate),(High)
+9332,"Terre Haute, IN, United States",46.22,55.56,575,692,186.85,53,"{'Walking': 33, 'Car': 67}",0.934112476,50,1.88,50,15,(Moderate),(Moderate)
+9378,"Bend, OR, United States",75.8,64.22,1414,1867,148.21,77,{'Car': 100},1.132329631,30,2.5,83,21,(High),(High)
+9498,"Billings, MT, United States",53.56,66.67,700,850,137.54,64,{'Car': 100},0.889731578,28,2,50,11,(Moderate),(High)
+9600,"Newton, MA, United States",88.36,83.33,1700,1700,246.24,82,{'Car': 100},1.056688211,0,0,78,17,(Very High),(Very High)
+9606,"Naperville, IL, United States",86.87,94.44,1319,1700,174.95,53,"{'Car': 80, 'Bike': 20}",0.918614571,125,6,70,15,(Very High),(Very High)
+9737,"Aberdeen, SD, United States",15.44,38.89,0,0,170,53,{'Working from Home': 100},0.868069556,0,0,60,14,(Very Low),(Low)
+9855,"Wichita Falls, TX, United States",73.71,83.33,0,0,153.69,49,{'Car': 100},0.767860339,0,0,30,9,(High),(Very High)
+10048,"Sarasota, FL, United States",75.22,68.19,1525,1779,164.66,69,{'Car': 100},0.931206587,65,2,72,19,(High),(High)
+10109,"San Dimas, CA, United States",68.38,0,0,0,167.65,60,{'Car': 100},1.585032316,0,0,60,13,(High),
+10203,"Butte, MT, United States",90.44,87.5,800,750,121.81,62,{'Car': 100},0.855917451,0,0,40,15,(Very High),(Very High)
+10343,"Ashland, WI, United States",33.33,0,0,0,220.73,80,,0.856234612,0,0,75,16,(Low),
+10356,"Manhattan, KS, United States",58.82,0,0,575,179.13,57,{'Car': 100},0.82580196,30,2.75,50,11,(Moderate),
+10359,"Moscow, ID, United States",76.47,58.33,674,809,78.82,57,"{'Train/Metro': 33, 'Car': 67}",1.030975785,0,0,40,12,(High),(Moderate)
+10451,"Athens, OH, United States",0,0,500,700,95.86,61,{'Car': 100},0.935169066,40,1,45,12,,
+10764,"Bozeman, MT, United States",81.58,73.15,1500,1944,137.54,64,"{'Car': 88, 'Bike': 12}",0.897958666,0,3,72,16,(Very High),(High)
+10783,"Lynchburg, VA, United States",72.94,65.74,700,950,158.33,56,{'Car': 100},0.881278233,0,0,50,11,(High),(High)
+10951,"Surprise, AZ, United States",79.41,77.78,750,985,178.63,77,{'Car': 100},0.988569626,44,0,55,16,(High),(High)
+10992,"Camden, NJ, United States",23.3,13.89,1300,1800,227.5,73,,0.931647055,55,1.6,47,16,(Low),(Very Low)
+11188,"Shawnee, OK, United States",56.86,100,0,550,85,45,,0.76213673,0,0,30,9,(Moderate),(Very High)
+11196,"East Lansing, MI, United States",65.2,58.33,900,1300,158.4,57,,0.845526948,33,1.25,45,12,(High),(Moderate)
+11331,"Maryville, MO, United States",89.71,0,0,0,241.73,60,,0.786704743,0,0,25,12,(Very High),
+11360,"Farmville, VA, United States",0,0,650,0,221,70,,0.825405768,0,0,42,11,,
+11480,"Troy, NY, United States",57.35,80.56,725,1025,112,68,,0.934024466,0,0,58,20,(Moderate),(Very High)
+11526,"Westerville, OH, United States",80.88,0,0,0,114.11,61,,0.845174582,0,0,60,15,(Very High),
+11527,"Houghton, MI, United States",91.18,0,0,0,114.37,60,{'Car': 100},0,0,0,75,10,(Very High),
+11565,"Lewiston, ID, United States",69.12,47.22,800,900,84,66,{'Car': 100},0,0,0,65,16,(High),(Moderate)
+11736,"Bourbonnais, IL, United States",0,0,0,0,204,30,,0.977436595,0,0,40,10,,
+11748,"Saint Charles, MO, United States",77.21,0,1250,1220,149.05,53,{'Car': 100},0.839715145,80,3.25,50,7,(High),
+11848,"Bethlehem, PA, United States",72.79,0,0,0,195.98,50,,0.939660433,0,0,64,14,(High),
+12029,"Minot, ND, United States",74.26,0,667,750,131.25,44,,0.882995086,35,2,55,14,(High),
+12165,"Rocky Mount, NC, United States",18.14,0,1040,1125,191.75,57,{'Car': 100},0.831217557,40,1.25,60,17,(Very Low),
+12177,"South Hadley, MA, United States",71.08,0,0,0,183.92,63,,0.870711296,0,0,50,14,(High),
+12536,"Livonia, MI, United States",93.01,47.22,0,0,149.5,55,,0,40,1.4,37,12,(Very High),(Moderate)
+12931,"Mankato, MN, United States",43.38,74.54,975,0,300,133,{'Car': 100},0,40,0,76,25,(Moderate),(High)
+12960,"Alexandria, LA, United States",36.18,0,0,0,271,80,,0.76213673,0,1,40,12,(Low),
+13029,"Decorah, IA, United States",0,0,0,0,118.48,95,,0,0,0,50,12,,
+14040,"Sylvania, OH, United States",88.24,0,0,0,0,130,,0.842708848,0,0,59,20,(Very High),
+33417,,0,0,0,0,0,0,,0,0,0,0,0,,
+33518,"Staunton, VA, United States",0,0,750,700,114.67,91,,0,0,0,60,10,,
+33599,"Ripon, WI, United States",0,0,0,695,90,75,,0,0,0,0,0,,
+33606,"Evanston, IL, United States",62.5,77.78,1248,1566,188.77,111,{'Car': 100},0.974794874,88,2.25,65,17,(High),(High)
+33762,"Tahlequah, OK, United States",75,0,0,0,200,80,,0,0,0,50,10,(High),
+33911,"Bartlesville, OK, United States",67.65,100,0,0,200,0,,0,0,0,0,0,(High),(Very High)
+34053,"Mechanicsburg, PA, United States",0,47.22,973,1200,210.91,65,{'Car': 100},0.910072721,49,1.85,50,14,,(Moderate)
+34057,,0,0,0,0,0,0,,0,0,0,0,0,,
+34082,"West Lafayette, IN, United States",95.59,63.89,787,1200,153.08,45,{'Car': 100},0.864767312,28,1,45,10,(Very High),(High)
+34252,,0,0,0,0,0,0,,0,0,0,0,0,,
+34359,"Edmond, OK, United States",60.29,80.56,1000,1500,167,77,{'Car': 100},0,213,0,45,14,(High),(Very High)
+34457,"Corvallis, OR, United States",53.53,44.44,967,1067,126.05,83,{'Car': 100},0.995664935,0,0,50,13,(Moderate),(Moderate)
+34523,"Quincy, IL, United States",75,0,0,0,125.36,90,{'Car': 100},0.898184979,0,2.5,48,11,(High),
+35563,"Malibu, CA, United States",51.47,0,0,0,0,0,,0,0,0,0,0,(Moderate),
+35912,"Rolla, MO, United States",0,0,0,0,194.37,88,,0,0,0,40,11,,
+35920,"Purcellville, VA, United States",0,0,0,0,0,100,,0,0,0,70,15,,
+35983,"Yankton, SD, United States",0,0,0,0,261.56,65,,0,0,0,50,13,,
+36099,"McMinnville, OR, United States",0,0,950,1125,175,89,,1.051404769,35,2,45,12,,
+39294,"Nampa, ID, United States",79.41,0,1200,1400,93.81,73,,0,34,1,75,15,(High),
+3386,"Akron, OH, United States",51.09,68.96,700,850,165,72,"{'Walking': 17, 'Car': 83}",0.880881806,50,1.25,50,16,(Moderate),(High)
+3410,"Corpus Christi, TX, United States",53.29,47.02,945,856,148.05,65,"{'Car': 91, 'Working from Home': 9}",0.81204289,0,0,60,12,(Moderate),(Moderate)
+3414,"Detroit, MI, United States",25.96,62.39,957,1151,249.03,78,"{'Walking': 3, 'Car': 91, 'Bus/Trolleybus': 6}",0.855238265,60,2,50,15,(Low),(High)
+3418,"Fort Worth, TX, United States",57.1,63.27,1257,1327,156.18,79,"{'Walking': 4, 'Car': 89, 'Working from Home': 4, 'Motorbike': 4}",0.811008202,95,2.25,50,12,(Moderate),(High)
+3432,"Irving, TX, United States",66.9,70.37,1076,1399,130.87,54,"{'Walking': 33, 'Car': 67}",0.75619268,96,1.5,45,12,(High),(High)
+3451,"Mobile, AL, United States",33.44,60.49,775,1160,128.86,56,{'Car': 100},0.80695769,0,2,53,13,(Low),(High)
+3483,"San Francisco, CA, United States",40.45,64.56,2455,2949,208.17,63,"{'Walking': 17, 'Tram/Streetcar': 2, 'Train/Metro': 10, 'Car': 54, 'Bus/Trolleybus': 9, 'Working from Home': 2, 'Bike': 5, 'Motorbike': 1}",1.275877698,81,3,85,20,(Moderate),(High)
+3484,"San Jose, CA, United States",53.91,73.38,2159,2454,164.21,63,"{'Walking': 1, 'Tram/Streetcar': 3, 'Car': 92, 'Bus/Trolleybus': 1, 'Bike': 1, 'Motorbike': 1}",1.233947731,90,2.5,65,16,(Moderate),(High)
+3487,"Seattle, WA, United States",49.07,74.06,1641,2070,217.78,63,"{'Walking': 6, 'Train/Metro': 2, 'Car': 64, 'Bus/Trolleybus': 19, 'Working from Home': 3, 'Bike': 4, 'Motorbike': 1}",1.117057837,99,2.75,90,20,(Moderate),(High)
+3492,"Tampa, FL, United States",52.3,68.08,1197,1671,178.81,67,"{'Walking': 2, 'Car': 92, 'Working from Home': 7}",0.925482825,80,2,60,18,(Moderate),(High)
+3494,"Tucson, AZ, United States",49.81,60.41,784,1020,204.11,64,"{'Walking': 4, 'Tram/Streetcar': 2, 'Car': 81, 'Working from Home': 8, 'Bike': 4, 'Motorbike': 2}",0.965053588,44,1.75,50,14,(Moderate),(High)
+3499,"Winston-Salem, NC, United States",68.36,87.96,817,1625,129.93,42,"{'Walking': 14, 'Car': 79, 'Working from Home': 7}",0.812923542,0,0,55,14,(High),(Very High)
+7487,"Stamford, CT, United States",81.68,85.71,1818,2186,163.2,64,{'Car': 100},0.932527637,63,1.75,100,21,(Very High),(Very High)
+7493,"Savannah, GA, United States",41.72,52.66,1100,2075,128.77,72,"{'Car': 91, 'Working from Home': 9}",0.861795376,40,5,40,12,(Moderate),(Moderate)
+7574,"Rapid City, SD, United States",44.99,66.2,925,969,173.89,84,{'Car': 100},0.899717257,0,3,50,14,(Moderate),(High)
+7589,"Hartford, CT, United States",35.9,66.48,840,1365,99.6,68,{'Car': 100},0.984701545,0,0,58,23,(Low),(High)
+7613,"Utica, NY, United States",45.64,50,700,725,122.76,74,,0.942698188,0,1.5,50,12,(Moderate),(Moderate)
+7642,"Lafayette, IN, United States",55.39,53.24,783,912,214.82,59,"{'Walking': 33, 'Car': 67}",0.849577582,33,1,50,13,(Moderate),(Moderate)
+7679,"Plattsburgh, NY, United States",75,0,0,0,169.34,61,{'Car': 100},0.879692935,0,0,50,12,(High),
+7711,"Dayton, OH, United States",40.09,71.3,888,960,113.54,67,{'Car': 100},0.827915406,55,2,50,12,(Moderate),(High)
+7768,"Kerrville, TX, United States",76.47,0,1000,1200,104.64,80,,0.876390785,0,0,35,9,(High),
+7822,"Huntsville, AL, United States",59.25,73.61,1017,1000,133.91,64,"{'Walking': 5, 'Car': 90, 'Working from Home': 5}",0.895455327,200,0,48,12,(Moderate),(High)
+7827,"Redding, CA, United States",37.82,66.67,0,0,210,64,{'Car': 100},1.256226555,0,0,57,13,(Low),(High)
+7907,"Santa Barbara, CA, United States",82.55,68.76,2275,2388,195.36,96,"{'Walking': 14, 'Car': 71, 'Bus/Trolleybus': 14}",1.279438318,63,1.88,105,20,(Very High),(High)
+7998,"Olympia, WA, United States",70.61,71.99,1183,1358,160,68,"{'Car': 78, 'Bus/Trolleybus': 11, 'Bike': 11}",1.042511138,0,0,60,16,(High),(High)
+8014,"Lexington, KY, United States",49.14,68.89,784,1004,165.3,68,"{'Car': 91, 'Bike': 9}",0.802951141,50,3,50,10,(Moderate),(High)
+8067,"New Paltz, NY, United States",0,75,1100,950,164.06,57,,0.929886063,0,0,37,10,,(High)
+8108,"Athens, GA, United States",78.17,64.81,793,1111,212.46,68,"{'Walking': 33, 'Car': 67}",0.923809863,16,0.88,45,12,(High),(High)
+8115,"Odessa, TX, United States",49.51,50,0,700,168,66,{'Car': 100},0.772263206,37,1.5,48,18,(Moderate),(Moderate)
+8279,"Stanford, CA, United States",0,0,2000,3500,164.21,63,,1.226154873,0,0,65,16,,
+8301,"Duluth, MN, United States",57.92,75,1067,1236,147.81,74,"{'Walking': 17, 'Car': 67, 'Bus/Trolleybus': 17}",0.900474728,40,2.5,53,15,(Moderate),(High)
+8396,"College Station, TX, United States",68.45,68.33,883,980,149.48,63,"{'Car': 73, 'Working from Home': 9, 'Bike': 18}",0.826858704,40,0,60,15,(High),(High)
+8414,"Springfield, IL, United States",58.49,53.11,0,660,149.05,60,{'Car': 100},0.979374144,0,0,50,15,(Moderate),(Moderate)
+8438,"Chattanooga, TN, United States",46.81,75.62,1124,1317,207.81,64,"{'Walking': 7, 'Car': 93}",0.79502598,0,0,40,15,(Moderate),(High)
+8729,"Carbondale, IL, United States",40.59,50,0,0,171.53,60,{'Car': 100},0.844505293,0,0,45,15,(Moderate),(Moderate)
+8766,"Santa Cruz, CA, United States",59.64,73.15,2200,2390,217.71,65,"{'Walking': 6, 'Car': 88, 'Bike': 6}",1.239577777,53,2,60,15,(Moderate),(High)
+8910,"Pensacola, FL, United States",46.37,74.65,1050,1500,268.56,74,{'Car': 100},0.929357443,50,1.75,50,12,(Moderate),(High)
+9005,"Tuscaloosa, AL, United States",40.69,20.83,750,1025,182.97,58,{'Car': 100},0.809071192,0,0,60,12,(Moderate),(Low)
+9016,"Annapolis, MD, United States",71.48,87.22,1367,1725,194.51,60,"{'Walking': 12, 'Car': 88}",0.936930488,85,3.29,50,15,(High),(Very High)
+9074,"Laurel, MS, United States",0,0,0,0,268.56,74,,0.929357443,0,0,50,12,,
+9131,"Arlington, TX, United States",47.24,75.93,889,972,186.3,59,"{'Train/Metro': 11, 'Car': 78, 'Working from Home': 11}",0.78095872,0,3,50,13,(Moderate),(High)
+9182,"West Hartford, CT, United States",57.35,0,1000,1500,233.15,63,{'Car': 100},0.929886063,0,0,62,23,(Moderate),
+9331,"Columbia, MO, United States",60.89,80.16,750,825,112.59,73,{'Car': 100},0.794893891,0,0,100,18,(High),(Very High)
+9384,"Charleston, WV, United States",46.06,75,0,0,208.33,70,{'Car': 100},0.895015118,0,0,40,15,(Moderate),(High)
+9400,"Winchester, VA, United States",74.51,0,1000,1075,190.52,95,,0.846407655,0,1,45,25,(High),
+9406,"Hilo, HI, United States",60.95,68.44,0,0,194.56,71,"{'Walking': 33, 'Car': 67}",1.217481287,41,2,58,15,(High),(High)
+9410,"Fayetteville, AR, United States",65.99,57.58,782,1075,166.05,56,"{'Walking': 11, 'Car': 89}",0.853804196,0,0,49,13,(High),(Moderate)
+9456,"Missoula, MT, United States",66.71,58.88,1025,1079,136.43,66,"{'Car': 88, 'Bus/Trolleybus': 12}",0.902059782,0,0,60,12,(High),(Moderate)
+9582,"Saint Cloud, MN, United States",37.87,81.94,0,0,130.55,67,,0.920551801,0,0,45,12,(Low),(Very High)
+9703,"Jackson, TN, United States",41.54,75,0,0,194.29,90,{'Car': 100},0.798856663,0,0,47,11,(Moderate),(High)
+9776,"San Marcos, TX, United States",100,60.19,950,1100,136.35,66,{'Car': 100},0.842709087,15,1,38,12,(Very High),(High)
+9782,"Gainesville, FL, United States",52.61,83.11,1163,1090,183.26,73,"{'Walking': 18, 'Car': 64, 'Bus/Trolleybus': 9, 'Working from Home': 9}",0.838357293,35,1.6,50,15,(Moderate),(Very High)
+9798,"Berkeley, CA, United States",39.46,80.28,2233,2774,184.27,72,"{'Walking': 7, 'Train/Metro': 14, 'Car': 57, 'Bus/Trolleybus': 7, 'Working from Home': 7, 'Motorbike': 7}",1.202511571,90,2.5,83,14,(Low),(Very High)
+9873,"Thomasville, GA, United States",0,0,600,800,143.67,51,,0,0,0,75,6,,
+10247,"Lacey, WA, United States",97.06,0,0,0,155,68,,1.042511138,0,0,55,16,(Very High),
+10289,,0,0,0,0,0,0,,0,0,0,0,0,,
+10291,"Shippensburg, PA, United States",0,0,0,0,163.33,60,,1.124492508,0,0,45,15,,
+10578,"Tyler, TX, United States",68.75,62.96,683,900,186.3,59,{'Car': 100},0.771382633,0,1,60,13,(High),(High)
+10595,"Cedar City, UT, United States",0,0,725,800,127.18,55,{'Car': 100},0.974794874,0,0,25,13,,
+10613,"Nacogdoches, TX, United States",72.06,0,0,0,164.06,72,{'Car': 100},0,0,0,50,9,(High),
+10622,"Boulder, CO, United States",80.31,80.43,1510,1826,134.38,52,"{'Walking': 17, 'Car': 33, 'Working from Home': 17, 'Bike': 33}",0.91368335,145,2.5,75,20,(Very High),(Very High)
+10970,"Newark, DE, United States",72.79,44.44,985,1225,132.76,66,,0.890524194,70,2,55,15,(High),(Moderate)
+11127,"Fairbanks, AK, United States",57.8,79.63,1200,1200,342.27,143,{'Car': 100},0.989324429,30,0,90,20,(Moderate),(High)
+11268,"Hoboken, NJ, United States",84.56,100,0,1900,139.57,69,"{'Train/Metro': 25, 'Car': 50, 'Working from Home': 25}",0.899946409,210,2.13,75,10,(Very High),(Very High)
+11272,"Merced, CA, United States",26.72,0,950,0,118.41,65,{'Car': 100},1.237118304,30,3.5,54,20,(Low),
+11295,"Laredo, TX, United States",66.34,48.61,700,750,188.54,80,{'Car': 100},0.877579702,0,1.35,45,10,(High),(Moderate)
+11343,"Troy, AL, United States",0,0,550,750,141.81,59,,0.889929704,0,0,30,10,,
+11350,"Waterbury, CT, United States",47.79,47.22,0,0,144.8,90,{'Car': 100},0.903732803,109,2.75,50,14,(Moderate),(Moderate)
+11518,"Cape Girardeau, MO, United States",62.25,44.44,483,600,210.78,71,{'Car': 100},0.866308341,25,5,45,13,(High),(Moderate)
+11573,"Durant, OK, United States",39.71,0,0,0,193.75,49,,0.792516158,0,0,50,10,(Low),
+12164,"Cookeville, TN, United States",38.24,68.06,500,750,145,69,{'Car': 100},0.798856663,43,5,45,12,(Low),(High)
+12210,"Edwardsville, IL, United States",0,0,0,0,195,93,,0.990645197,0,0,50,12,,
+12296,"Medford, MA, United States",73.04,0,1800,0,200,83,,0,90,2.4,85,15,(High),
+12382,"Champaign, IL, United States",59.07,69.07,700,931,107.06,50,"{'Walking': 33, 'Car': 33, 'Bike': 33}",0.918614571,18,1,50,13,(Moderate),(High)
+12418,"Davis, CA, United States",71.62,80.56,1233,1550,138.45,51,"{'Car': 50, 'Bike': 50}",1.228928777,100,2.5,60,15,(High),(Very High)
+12428,"Santa Clara, CA, United States",80.39,86.11,2860,3293,174.6,57,{'Car': 100},1.292197886,95,2.25,63,15,(Very High),(Very High)
+12478,"Groton, CT, United States",77.21,0,1100,0,400,50,,0,0,0,75,25,(High),
+12599,"Denton, TX, United States",57.07,71.3,950,1193,130.87,54,"{'Car': 50, 'Motorbike': 50}",0.75619268,0,0,45,12,(Moderate),(High)
+12693,"Kirksville, MO, United States",27.94,52.78,0,0,0,0,,0,0,0,50,15,(Low),(Moderate)
+12910,"Texarkana, TX, United States",47.67,0,680,680,181.91,54,{'Car': 100},1.117447783,0,0,45,10,(Moderate),
+12999,"Marshall, MN, United States",0,66.67,0,0,0,0,,0,0,0,25,7,,(High)
+13723,"Athens, TN, United States",47.06,0,0,0,150,70,,0.822279803,0,0,43,20,(Moderate),
+13744,"Hammond, LA, United States",25,0,0,0,168.33,75,,0,0,0,51,14,(Low),
+13807,"Schenectady, NY, United States",25.18,0,900,1200,149.54,90,"{'Car': 50, 'Working from Home': 50}",0.90117922,80,2,80,40,(Low),
+13808,"Saratoga Springs, NY, United States",66.91,0,1900,2250,167.02,63,,0.945735948,43,2.25,88,20,(High),
+13881,"Angola, IN, United States",0,0,0,0,234.96,57,,0.792516158,0,0,30,10,,
+14024,"Bridgeport, CT, United States",42.02,58.33,1800,1800,242.12,74,,0.911393582,70,1.75,80,14,(Moderate),(Moderate)
+14156,"Stephenville, TX, United States",0,0,0,0,0,0,,0,0,0,50,25,,
+33706,"Alpine, TX, United States",0,0,0,0,0,100,,0,0,0,75,16,,
+33734,"Aliso Viejo, CA, United States",86.76,90.28,0,0,120,70,{'Car': 100},0,0,0,75,19,(Very High),(Very High)
+34046,"Oswego, NY, United States",86.76,0,0,0,0,0,{'Car': 100},0,0,0,55,15,(Very High),
+34179,,0,0,0,0,0,0,,0,0,0,0,0,,
+34393,"Huntsville, TX, United States",88.24,55.56,0,0,149.68,75,{'Car': 100},0,0,0,53,20,(Very High),(Moderate)
+34559,"Rome, GA, United States",0,100,625,1125,358.33,58,,0,0,1.25,30,8,,(Very High)
+35191,"Greenville, PA, United States",0,0,475,550,181,52,,0.932527346,0,0,42,13,,
+35497,"Martin, TN, United States",0,0,0,0,0,0,,0,0,0,25,15,,
+37379,,0,0,0,0,0,0,,0,0,0,0,0,,
+37785,"Gering, NE, United States",0,0,450,600,86,30,,0,0,0,30,10,,
+38789,,0,0,0,0,0,0,,0,0,0,0,0,,
+39054,"Warrensburg, MO, United States",0,0,475,500,228.73,75,,0,0,0,73,33,,
+3387,"Albuquerque, NM, United States",29.24,64.29,860,1059,138.48,79,"{'Walking': 6, 'Car': 86, 'Working from Home': 8}",0.855447902,30,1,55,15,(Low),(High)
+3438,"Las Vegas, NV, United States",44.72,55.83,1027,1273,171.05,74,"{'Walking': 4, 'Car': 91, 'Working from Home': 4, 'Bike': 1}",1.045725131,60,2.5,60,15,(Moderate),(Moderate)
+3445,"Madison, WI, United States",66.02,77.78,913,1321,117.96,58,"{'Walking': 4, 'Car': 79, 'Bus/Trolleybus': 4, 'Bike': 14}",0.861795372,65,2,75,14,(High),(High)
+3471,"Reno, NV, United States",55.51,61.23,1239,1551,136.98,68,{'Car': 100},1.094002513,55,2,60,15,(Moderate),(High)
+3472,"Richmond, VA, United States",52.74,74.69,1021,1265,160.13,68,"{'Walking': 12, 'Car': 83, 'Bike': 4}",0.866748604,44,1.88,60,23,(Moderate),(High)
+3479,"Salt Lake City, UT, United States",67.09,71.46,1117,1394,133.9,61,"{'Walking': 3, 'Tram/Streetcar': 4, 'Train/Metro': 1, 'Car': 81, 'Bus/Trolleybus': 6, 'Working from Home': 3, 'Bike': 1, 'Motorbike': 1}",0.980891221,85,2.5,53,15,(High),(High)
+3490,"Stockton, CA, United States",21.89,62.73,1219,1174,201.24,55,"{'Walking': 14, 'Car': 86}",1.237382185,30,2,60,18,(Low),(High)
+3491,"Tacoma, WA, United States",45.88,73.19,1319,1606,187.86,68,"{'Car': 81, 'Bus/Trolleybus': 12, 'Working from Home': 6}",1.040749991,75,3,68,14,(Moderate),(High)
+7400,"Wilkes-Barre, PA, United States",37.26,33.33,600,0,243.84,86,,0.924659902,0,1.75,38,10,(Low),(Low)
+7450,"Burlington, VT, United States",64.48,70.93,1350,1533,170.41,83,{'Car': 100},0.956104807,0,1.25,75,15,(High),(High)
+7477,"Wheeling, WV, United States",18.7,22.22,640,697,113.54,67,{'Car': 100},0.827915406,100,1.65,50,11,(Very Low),(Low)
+7516,"Stevens Point, WI, United States",69,0,900,1100,161.78,61,,0.84821479,25,1.3,55,15,(High),
+7633,"Iowa City, IA, United States",75.29,81.94,751,973,139.36,69,"{'Walking': 50, 'Car': 50}",0.85261549,32,1,58,12,(High),(Very High)
+7644,"Asheville, NC, United States",61.24,68.92,1120,1492,191.88,69,{'Car': 100},0.837954009,20,1,65,15,(High),(High)
+7759,"Wilmington, NC, United States",57.85,67.87,1074,1342,151.67,82,"{'Car': 85, 'Working from Home': 8, 'Bike': 8}",0.880089387,80,0,50,15,(Moderate),(High)
+7819,"Bowling Green, KY, United States",51.32,42.86,710,0,135.92,56,{'Car': 100},0.79489408,0,0,48,15,(Moderate),(Moderate)
+7847,"Walla Walla, WA, United States",76.35,72.22,950,1050,177.71,51,"{'Walking': 25, 'Car': 75}",0.974068522,0,0,46,12,(High),(High)
+7973,"New Haven, CT, United States",47.14,75.13,1363,1710,210.83,64,"{'Car': 80, 'Working from Home': 20}",0.982720254,47,0.93,80,15,(Moderate),(High)
+8116,"Westfield, MA, United States",88.97,0,1000,1200,249.99,77,,1.068575953,0,0,40,18,(Very High),
+8117,"Hattiesburg, MS, United States",42.65,69.44,750,1000,128.86,71,,0.837689673,0,0,51,14,(Moderate),(High)
+8151,"Johnstown, PA, United States",32.92,0,500,450,254.13,90,{'Car': 100},0.939043884,0,0,60,10,(Low),
+8216,"Fredericksburg, VA, United States",66.36,68.06,0,0,129.36,56,"{'Walking': 25, 'Car': 75}",0.846407655,0,1.25,50,12,(High),(High)
+8405,"Evansville, IN, United States",56.42,88.19,750,967,224.81,59,{'Car': 100},0.828443818,0,0,50,13,(Moderate),(Very High)
+8448,"Bellingham, WA, United States",65.09,54.82,1293,1358,195.43,80,"{'Walking': 29, 'Car': 71}",1.046649913,28,1.5,59,15,(High),(Moderate)
+8461,"Williamsburg, VA, United States",87.06,91.67,1200,1400,147.64,70,,0.980958889,45,1.5,50,12,(Very High),(Very High)
+8510,"Lawrence, KS, United States",69.33,0,500,600,196.37,60,{'Car': 100},0.786704743,0,0,55,15,(High),
+8722,"Portland, ME, United States",67.6,56.02,1380,2017,133.9,70,"{'Car': 89, 'Working from Home': 11}",0.92196057,30,2,60,15,(High),(Moderate)
+8751,"Rochester, MN, United States",51.66,86.9,3200,0,201,59,{'Car': 100},0.853143832,42,1.5,65,12,(Moderate),(Very High)
+8754,"Grand Forks, ND, United States",80.72,72.22,733,967,130.55,67,{'Car': 100},0.920551801,0,0,45,12,(Very High),(High)
+8916,"Kalamazoo, MI, United States",55.81,70,601,1400,130.63,67,"{'Car': 80, 'Working from Home': 20}",0.871239628,0,0,58,12,(Moderate),(High)
+8928,"West Chester, PA, United States",65.34,60.19,1800,0,134.6,66,{'Car': 100},1.04233501,0,0,50,14,(High),(High)
+8957,"Valparaiso, IN, United States",78.24,86.11,950,1000,240.12,117,,0.948377669,30,1,75,10,(High),(Very High)
+9103,"Bismarck, ND, United States",83.38,75,500,838,174.73,53,{'Car': 100},0.868069556,0,0,50,12,(Very High),(High)
+9125,"York, PA, United States",28.23,73.89,600,500,143.06,59,"{'Car': 86, 'Bus/Trolleybus': 14}",0.922312988,60,1.75,60,15,(Low),(High)
+9181,"Charlottesville, VA, United States",67.86,79.76,1213,1527,147.64,70,{'Car': 100},0.85045816,25,0.75,73,13,(High),(High)
+9194,"Youngstown, OH, United States",31.51,71.3,615,725,332.5,90,{'Car': 100},0.846759743,0,0,48,15,(Low),(High)
+9385,"Bradford, PA, United States",0,0,0,0,111,68,,0.912626676,0,0,60,14,,
+9480,"Pullman, WA, United States",36.76,47.22,488,350,78.82,57,,1.030975785,30,0.75,40,12,(Low),(Moderate)
+9533,"Costa Mesa, CA, United States",80.88,77.78,0,2000,145.47,56,{'Car': 100},1.31135036,0,0,75,15,(Very High),(High)
+9568,"Lafayette, LA, United States",55.08,77.78,1125,975,143.15,74,{'Car': 100},0.896071791,42,1.13,50,15,(Moderate),(High)
+9726,"Kearney, NE, United States",75.98,100,650,900,166.03,63,{'Car': 100},0.82580196,0,0,60,11,(High),(Very High)
+9760,"Laramie, WY, United States",65,68.52,560,840,97.09,44,,0.876523283,0,0,45,7,(High),(High)
+9801,"Chapel Hill, NC, United States",75.14,84.65,1500,1800,146.6,56,{'Car': 100},0.795686481,0,0,60,12,(High),(Very High)
+10183,"La Crosse, WI, United States",58.09,86.11,0,900,200,63,,0.812593484,0,0,50,13,(Moderate),(Very High)
+10338,"Oshkosh, WI, United States",70.59,100,825,950,226.06,61,{'Car': 100},0.810942252,25,1.25,55,15,(High),(Very High)
+10383,"Young Harris, GA, United States",0,0,0,0,0,70,,0.830557324,0,0,50,15,,
+10405,"Greensburg, PA, United States",80.88,97.22,500,750,167.08,73,{'Walking': 100},0.973077977,0,6,45,15,(Very High),(Very High)
+10453,"Morgantown, WV, United States",50.98,86.11,700,900,95.86,75,{'Car': 100},0.866748912,30,0,50,20,(Moderate),(Very High)
+10838,"Beckley, WV, United States",86.76,29.17,0,0,308.33,55,,1.085747136,0,0,50,12,(Very High),(Low)
+10859,"College Park, MD, United States",50,84.72,1200,0,150,54,{'Car': 100},0.966209489,0,2,59,12,(Moderate),(Very High)
+10938,"Great Falls, MT, United States",51.76,68.52,1250,750,136.43,67,,0.898537488,55,1.5,40,12,(Moderate),(High)
+11114,"Valdosta, GA, United States",41.18,72.22,500,747,219,86,{'Car': 100},0.789874437,87,0,42,11,(Moderate),(High)
+11211,"Logan, UT, United States",65.2,73.61,825,883,160.26,64,{'Car': 100},0.962907355,0,0,45,10,(High),(High)
+11540,"Montevallo, AL, United States",0,0,0,0,221,86,,0.888322808,0,0,38,11,,
+11574,"Sumter, SC, United States",10.01,98.61,726,808,200,60,{'Car': 100},0.809951762,0,0,35,11,(Very Low),(Very High)
+11755,"Eau Claire, WI, United States",55.15,80.56,658,800,145.5,75,{'Car': 100},0.87423363,48,0,40,15,(Moderate),(Very High)
+11816,"Poughkeepsie, NY, United States",58.28,84.03,1050,1400,109.67,60,{'Car': 100},0.95326507,0,0,73,18,(Moderate),(Very High)
+11874,"Liberty, MO, United States",77.94,0,0,0,171.36,63,,0.82580196,0,0,60,18,(High),
+12343,"Dahlonega, GA, United States",0,0,0,0,200,50,,0,0,0,41,15,,
+12513,,97.06,0,0,0,0,0,,0,0,0,0,0,(Very High),
+12522,"Blacksburg, VA, United States",90.44,66.67,600,800,141.16,55,"{'Car': 50, 'Bus/Trolleybus': 50}",0.845245059,0,0.5,55,15,(Very High),(High)
+12679,"Rock Hill, SC, United States",59.12,77.78,800,950,153.29,42,{'Car': 100},0.792252358,0,0,35,10,(Moderate),(High)
+12848,"Redlands, CA, United States",72.79,55.56,0,0,249.02,113,,1.237118304,0,0,40,14,(High),(Moderate)
+12975,"Chester, PA, United States",19.85,0,0,0,0,0,,0,0,0,0,0,(Very Low),
+13130,,0,72.22,0,0,0,0,,0,0,0,0,0,,(High)
+13152,"Monroe, LA, United States",36.57,0,0,0,163.75,63,,0.801498385,0,0,50,12,(Low),
+13181,"Norman, OK, United States",80.65,54.17,600,550,196.25,68,{'Car': 100},0.754651734,0,0,44,12,(Very High),(Moderate)
+13250,"Celina, OH, United States",0,0,0,0,0,0,,0,0,0,40,10,,
+13776,"Winona, MN, United States",0,63.89,0,600,137.27,60,,0,0,0,30,11,,(High)
+14143,"River Falls, WI, United States",0,0,0,0,269,60,,0,0,0,40,25,,
+33354,"Superior, WI, United States",82.35,0,0,0,60,55,,0,0,0,35,8,(Very High),
+33374,"Greeley, CO, United States",40.69,47.22,750,900,190,60,{'Car': 100},0.895191306,45,3.5,55,14,(Moderate),(Moderate)
+33390,,0,0,0,0,0,0,,0,0,0,0,0,,
+33415,"Jamestown, ND, United States",0,0,0,0,0,0,,0,0,0,0,16,,
+34110,"Wheaton, IL, United States",84.8,100,1318,1278,89.25,95,,0.974794874,0,0,68,30,(Very High),(Very High)
+34220,"Gunnison, CO, United States",0,0,0,0,0,0,,0,0,0,50,10,,
+34753,"Lancaster, SC, United States",75,0,0,0,0,0,,0,0,0,0,35,(High),
+34825,"Williamsburg, KY, United States",0,0,0,0,365.97,45,,0,0,0,35,5,,
+34869,,0,0,0,0,0,0,,0,0,0,0,0,,
+34894,"Crawfordsville, IN, United States",0,0,0,0,255,80,,0,0,0,24,15,,
+35145,"Bothell, WA, United States",80.64,0,1449,1733,151,112,,1.056688211,60,4.5,80,23,(Very High),
+35154,"Wilmington, OH, United States",0,0,0,0,0,0,{'Car': 100},0,0,0,45,10,,
+35712,"Lowell, MA, United States",42.06,0,1357,1692,125,47,{'Car': 100},0.924602184,0,0,40,20,(Moderate),
+36221,"Macomb, IL, United States",0,0,0,0,0,0,,0,0,0,40,5,,
+36304,,0,0,0,0,0,0,,0,0,0,0,0,,
+38738,"Plainview, TX, United States",0,0,0,0,0,0,,0,0,0,40,15,,
+39588,"Aiken, SC, United States",0,0,750,925,75,39,,0.924602184,0,0,45,9,,
+39738,"Joliet, IL, United States",0,0,0,0,0,0,,0,0,0,65,25,,

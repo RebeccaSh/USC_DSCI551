@@ -1,0 +1,9 @@
+google.cloud
+firestore
+streamlit_lottie
+bokeh==2.4.1
+matplotlib
+matplotlib
+sklearn
+joblib
+altair
