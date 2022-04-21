@@ -1,5 +1,11 @@
 # USC_DSCI551
+DSCI551 class project 
+member: Cheng Shi, Ruolan Shen, Muhannad Alharbi
+
 UI screenshot
+Develop a web-based data application to assist prospective students in finding the right school by examining college admission and location data in the United States.
+
+
 
 <img width="1725" alt="Screen Shot 2022-04-12 at 5 37 25 PM" src="https://user-images.githubusercontent.com/25335878/163080017-cabf77b7-c979-4005-9fbb-1699e309dde2.png">
 
